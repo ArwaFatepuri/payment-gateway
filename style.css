@@ -65,7 +65,7 @@ header nav ul li {
 .bg-img {
     height: 580px;
     padding-top: 0px;
-    background: #e8eced url("images/bg4.jpg") no-repeat center;
+    background: #e8eced url("/payment-gateway/images/bg4.jpg") no-repeat center;
     background-size: cover;
     
 }
